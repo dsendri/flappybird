@@ -21,6 +21,7 @@ public class FlappyBird extends ApplicationAdapter {
 	// Test Commit
 
 	int testCommit;
+	int testCommit2;
 	SpriteBatch batch;
 	Texture background;
 	ShapeRenderer shapeRenderer;
