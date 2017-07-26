@@ -17,6 +17,10 @@ import org.w3c.dom.Text;
 import java.util.Random;
 
 public class FlappyBird extends ApplicationAdapter {
+
+	// Test Commit
+
+	int testCommit;
 	SpriteBatch batch;
 	Texture background;
 	ShapeRenderer shapeRenderer;
